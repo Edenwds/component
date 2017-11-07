@@ -1,0 +1,1 @@
+在javaweb项目中使用markdown组件，实现图文的上传录入，使用smartupload进行图片的上传，后台使用servlet接受图片和文字
